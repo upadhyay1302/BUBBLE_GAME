@@ -1,5 +1,4 @@
 # BUBBLE_GAME
-# Bubble Pop Game
 
 This project is a simple bubble popping game implemented using HTML, CSS, and JavaScript. Players can click on bubbles with numbers to increase their score within a time limit.
 
